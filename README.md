@@ -2,6 +2,7 @@
 
 ![code-review](https://github.com/wouterds/next-base/workflows/code-review/badge.svg?branch=main)
 ![docker-image](https://github.com/wouterds/next-base/workflows/docker-image/badge.svg?branch=main)
+![deploy](https://github.com/wouterds/next-base/workflows/deploy/badge.svg?branch=main)
 
 ## Development
 
