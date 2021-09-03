@@ -1,6 +1,7 @@
 # web
 
 ![code-review](https://github.com/wouterds/next-base/workflows/code-review/badge.svg?branch=main)
+![docker-image](https://github.com/wouterds/next-base/workflows/docker-image/badge.svg?branch=main)
 
 ## Development
 
