@@ -1,4 +1,7 @@
 # web
+
+![code-review](https://github.com/wouterds/next-base/workflows/code-review/badge.svg?branch=main)
+
 ## Development
 
 ```bash
